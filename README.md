@@ -1,5 +1,10 @@
 # Real Estate Valuation Engine & Streamlit Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://idx-ds43-housing-app.streamlit.app/)
+
+> **Live Demo:** Explore the interactive model interface at [idx-ds43-housing-app.streamlit.app](https://idx-ds43-housing-app.streamlit.app/)
+>
+> 
 An end-to-end machine learning pipeline that predicts residential property values using gradient boosting (LightGBM). Built with an automated object-oriented ETL pipeline and served via an interactive Streamlit web application.
 
 ---
